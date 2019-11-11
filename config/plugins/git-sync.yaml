@@ -1,0 +1,27 @@
+enabled: true
+folders:
+  - pages
+  - config
+sync:
+  on_save: true
+  on_delete: true
+  on_media: true
+  cron_enable: false
+  cron_at: '0 12,23 * * *'
+repository: 'https://github.com/Adept-Camp/adocs.camp.git'
+user: dmgwizz@gmail.com
+webhook: 'http://docs.adept.camp/_git-sync-043ea38d48c3'
+webhook_enabled: '1'
+webhook_secret: cabfc2d8e349c28406920543a29166c3393d99e844ecfee2
+branch: master
+remote:
+  name: origin
+  branch: master
+git:
+  author: gituser
+  message: '(Grav GitSync) Automatic Commit'
+  name: GitSync
+  email: git-sync@trilby.media
+  bin: git
+logging: true
+password: gitsync-def502008779152bb5c27aaf242e1885ae47ad6be00b5f0f22049d12611647794d268e29a61236f66f95748047331741ba0f758021b1a1d7ee49f4aab423778458ee15b55fad0250568db416cc55b876ee7f0b10fbf0f778396d2781575cfbadfe978867ab41056394201c08c1efd74db2417b3ecb8777d6701c610d
