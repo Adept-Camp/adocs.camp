@@ -37,8 +37,12 @@ And docs for clients (created by both clients and team members)
 
 ## Adept Camp is a proof of concept.
 
-For the idea that a university can be owned by its students.
-A supermarket can be owned by its customers.
+For the idea that a university can be owned by its students. And be as good if not better in every way as the Uni's we have now.
+A supermarket can be owned by its customers. And be as good if not better in every way as the supermarkets we have now. 
+
+Perhaps if we can get that right we can try local government or more...
+
+First we have to prove the concept. Develop a bunch of tools and systems. And use a bunch of existing tools and systems. Trying not to reinvent the wheel. 
 
 We start with a digital agency owned by its clients & the agencies team (marketers, IT people, Programmers, etc).
 
