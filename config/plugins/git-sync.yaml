@@ -2,6 +2,7 @@ enabled: true
 folders:
   - pages
   - config
+  - themes
 sync:
   on_save: true
   on_delete: true
